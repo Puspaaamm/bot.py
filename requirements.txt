@@ -1,2 +1,3 @@
 python-telegram-bot[webhooks]>=21
 httpx
+beautifulsoup4
